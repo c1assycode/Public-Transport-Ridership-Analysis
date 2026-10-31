@@ -1,0 +1,21 @@
+stop_id,stop_name,latitude,longitude,route_id,stop_sequence
+BR1-S01,Bareilly Junction Railway Station,,,,1
+BR1-S02,Kacheri Tiraha,,,,2
+BR1-S03,Damodhar Swaroop,,,,3
+BR1-S04,ChoupIa,,,,4
+BR1-S05,City Station,,,,5
+BR1-S06,Jasola Fatak,,,,6
+BR1-S07,Dulha Miya Mazar,,,,7
+BR1-S08,Kila Crossing,,,,8
+BR1-S09,Satyaprakash Park,,,,9
+BR1-S10,Mini Bypass Tiraha,,,,10
+BR1-S11,ITI,,,,11
+BR1-S12,CB Ganj,,,,12
+BR1-S13,GTI,,,,13
+BR1-S14,Parsakhera,,,,14
+BR1-S15,Jhumka Chauraha,,,,15
+BR1-S16,Balliya Mod,,,,16
+BR1-S17,Rukampur,,,,17
+BR1-S18,Fatehganj Bypass,,,,18
+BR1-S19,Fatehganj Chauraha,,,,19
+BR1-S20,Fatehganj Bus Stand,,,,20

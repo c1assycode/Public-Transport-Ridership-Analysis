@@ -1,0 +1,5 @@
+route_id,proposed_route_name,route_type,planned_length_km,planned_headway_min,planned_frequency_buses_per_hour,estimated_required_fleet,status
+R1,Bhojipura to Mini Bypass Depot,To & Fro,17.38,20,3,5,Phase 1 service-based proposal
+R2,Mini Bypass Depot to Mini Bypass Depot (Circular),Two Way Loop,19.72,15,4,7,Phase 1 service-based proposal
+R3,Bareilly Junction to Fatehganj Paschimi,To & Fro,19.56,15,4,7,Phase 1 service-based proposal
+R4,Bareilly Junction to Invertis University,To & Fro,13.62,20,3,4,Phase 1 service-based proposal

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/ridership.sqlite
+data/uploads/*
+!data/uploads/.gitkeep
+.streamlit/secrets.toml
